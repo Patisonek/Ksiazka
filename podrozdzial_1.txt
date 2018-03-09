@@ -1,1 +1,4 @@
 To jest pomysl na podrozdzial
+
+
+Plan szkolenia z Git:
