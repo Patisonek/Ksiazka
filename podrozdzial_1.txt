@@ -2,3 +2,11 @@ To jest pomysl na podrozdzial
 
 
 Plan szkolenia z Git:
+-----------------------
+
+1
+2
+3
+4
+5
+6
